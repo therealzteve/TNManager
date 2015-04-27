@@ -1,0 +1,177 @@
+html {
+	font-family: arial, sans-serif;
+}
+
+h2 {
+	font-size: 20px;
+	margin: 0;
+	padding: 4px;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
+#TNs th, #TNs td {
+	border: 1px solid #777;
+	margin-left: 4px;
+}
+
+#TNs	th {
+	background: #777;
+	color: #fff;
+	border-color: #888;
+	font-weight: normal;
+	padding: 4px;
+}
+
+#TNs {
+	border-spacing: 0;
+}
+
+
+.summaryTnRow{
+	background-color: #EEE;
+}
+
+.summaryTnRow:hover{
+	background-color: #DDD;
+}
+
+.summaryTnRow td{
+	border: 1px solid #BBB;
+	padding: 3px;
+}
+
+#summary th{
+	background: none repeat scroll 0 0 #777;
+    border-color: #888;
+    color: #fff;
+    font-weight: normal;
+    padding: 4px;
+}
+#summary{
+		border: 1px solid #CCC;
+		empty-cells: show; 
+		border-spacing: 0px;
+			border-collapse: collapse;
+		
+}
+
+.time_span {
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.time_li {
+	font-size: small;
+	list-style: none;
+}
+
+.time_id {
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.time_ul {
+	padding-left: 2px;
+}
+
+.activeTnEndTime {
+	width: 70px;
+}
+
+#customers {
+	max-height: 200px;
+	overflow: auto;
+	border: 1px solid #ccc;
+	padding: 1px
+}
+
+#summaryContainer {
+	background-color: #F5F5F5;
+}
+
+.container {
+	padding: 4px;
+	background-color: #fafafa;
+	border: 1px solid #BBB;
+	box-shadow: 0 0 2px 1px #DDD;
+}
+
+#options {
+	float: left;
+	width: 160px;
+}
+
+#outer {
+	box-shadow: 0 0 6px 1px #ccc;
+	width: 80%;
+	padding: 10px;
+	border: 1px solid #BBB;
+	background: none repeat scroll 0 0 #f0f0f0;
+}
+
+#currentTable {
+	margin-left: 175px;
+	min-height: 100px;
+}
+
+#summaryContainer {
+	clear: both;
+}
+
+.clear {
+	clear: both;
+}
+
+#new_cust_name {
+	margin-bottom: 4px;
+	margin-top: 4px;
+}
+
+.tatTextField{
+	width:100%;
+}
+
+.tatColumn{
+	width:850px;
+}
+
+.timeColumn{
+	width:145px;
+}
+
+.customerColumn{
+	width:100px;
+}
+
+.idColumn{
+	width:60px;
+}
+
+.actionColumn{
+	width:60px;
+}
+
+
+#ajaxLoadGif {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+}
+
+#status{
+	border: 1px solid #aaa;
+	margin-right: 10px;
+	margin-top: 10px;
+	padding: 5px;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
