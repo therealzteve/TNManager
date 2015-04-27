@@ -2,5 +2,4 @@ TODOS:
 
 
 Changelog raus
-Fenster mit Info: "Letzer Abgleich"
 Passwort vergessen Funktion
