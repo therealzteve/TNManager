@@ -3,3 +3,5 @@ TODOS:
 
 Changelog raus
 Passwort vergessen Funktion
+Alle Löschen Funktion
+Texte nachträglich ändern
