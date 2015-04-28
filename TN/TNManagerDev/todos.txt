@@ -6,3 +6,5 @@ Alle Löschen Funktion
 Texte nachträglich ändern
 
 PHP Architektur überarbeiten
+
+*git test*
